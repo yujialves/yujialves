@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 ### My status
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yujialves&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujialves&layout=compact&card_width=450)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujialves&layout=compact&card_width=445)](https://github.com/anuraghazra/github-readme-stats)  
 ### Pickup Repository
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yujialves&repo=amato-music&theme=algolia)](https://github.com/yujialves/amato-music)  
